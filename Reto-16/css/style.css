@@ -1,0 +1,33 @@
+table {
+	width: 100%;
+	height: 50px;
+}
+
+
+tbody td {
+    text-align: center;
+}
+
+.color1 {
+
+    background-color: rgb(28, 110, 44);
+
+}
+
+.color2 {
+
+    background-color: rgb(255, 181, 96);
+
+}
+
+.color3 {
+
+    background-color: rgb(242, 234, 125);
+
+}
+
+.color4 {
+
+    background-color: rgb(242, 219, 164);
+
+}
