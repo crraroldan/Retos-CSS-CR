@@ -1,0 +1,219 @@
+body{
+
+    background-image: url(../img/ac.jpg);  
+   
+}
+
+
+.flex-container{
+
+   
+    width: 920px;
+    height: 700px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.Cuadro1{
+   width: 210px;
+   height: 210px;
+   background-color: blue;
+   float: left;
+   margin:10px;
+   background-image: url(../img/back_mantel.jpg);  
+}
+
+.Cuadro2{
+    width: 210px;
+    height: 210px;
+    background-color: rgba(0, 0, 255, 0);
+    float: left;
+    margin:10px;
+
+    
+}
+
+.Subcuadro2{
+    width: 160px;
+    height: 160px;
+    background-color: rgb(255, 0, 0);
+    margin: 25px auto;
+    display:block;  
+
+    background-image: url(../img/back_mantel.jpg);  
+}
+
+
+
+.Cuadro3{
+    width: 210px;
+    height: 210px;
+    background-color: blue;
+    float: left;
+    margin:10px;
+    /* background-image: url(../img/back_mantel.jpg);  */
+    
+    
+}
+
+.Imagen3{
+    width: 210px;
+    height: 210px;
+
+    
+
+    
+
+   
+
+}
+
+    
+.Cuadro4{
+    width: 210px;
+    height: 210px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    margin:10px;
+}
+
+.Imagen4{
+
+    margin:15px auto;
+    display:block;  
+    width: 180px;
+    height: 180px;
+
+}
+    
+
+.Cuadro5{
+    width: 210px;
+    height: 210px;
+    background-color: blue;
+    float: left;
+    margin:10px;
+   
+}
+
+.Imagen5{
+    width: 210px;
+    height: 210px;
+
+}
+    
+.Cuadro6{
+    width: 210px;
+    height: 210px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    margin:10px;
+    
+}
+
+.Subcuadro6{
+    width: 160px;
+    height: 160px;
+    background-color: rgb(255, 0, 0);
+    margin: 25px auto;
+    display:block;  
+}
+
+        
+.Cuadro7{
+    width: 210px;
+    height: 210px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    margin:10px;
+   
+
+}
+
+.Subcuadro7{
+
+    width: 210px;
+    height: 97px;
+    background-color: rgb(255, 0, 0);
+    margin: 20px auto;
+    display:block;  
+
+
+}
+
+
+
+        
+.Cuadro8{
+    width: 210px;
+    height: 210px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    margin:10px;
+    
+}
+
+.Subcuadro8{
+
+    width: 107px;
+    height: 209px;
+    background-color: rgb(255, 0, 0);
+    margin: 0px auto;
+    display:block;  
+
+
+}
+
+
+
+
+        
+.Cuadro9{
+    width: 210px;
+    height: 210px;
+    background-color: rgb(111, 232, 131) ;
+    float: left;
+    margin:10px;
+
+    background: -webkit-linear-gradient(left, rgb(180, 234, 101), rgb(0, 138, 67)); 
+
+   
+    
+}
+    
+.Cuadro10{
+    width: 210px;
+    height: 210px;
+    background-color: rgb(255, 77, 77);
+    float: left;
+    margin:10px;
+
+    background: linear-gradient( rgb(255, 169, 126),rgb(110, 40, 0));  
+    
+}
+        
+.Cuadro11{
+    width: 210px;
+    height: 210px;
+    background-color: rgb(191, 250, 119);
+    float: left;
+    margin:10px;
+
+    background: linear-gradient( rgb(170, 255, 181),rgb(33, 89, 0));  
+   
+}
+        
+.Cuadro12{
+    width: 210px;
+    height: 210px;
+    background-color: rgb(13, 173, 29);
+    float: left;
+    margin:10px;
+
+    background: linear-gradient( rgba(170, 255, 181, 0.193),rgb(33, 89, 0));  
+
+}
+        
