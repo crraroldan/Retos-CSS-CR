@@ -1,0 +1,27 @@
+table {
+    background-color: rgb(253, 253, 253);
+} 
+
+table th {
+    background-color: rgb(255, 255, 255);
+} 
+
+table td {
+    background-color: rgb(255, 255, 255);
+} 
+
+
+
+.Tabla {
+    width: 800px;
+    border: 2px solid rgb(0, 0, 0); 
+}
+
+.Tabla th, .Tabla td {
+    border: 2px solid rgb(0, 0, 0);
+}
+
+
+
+
+
